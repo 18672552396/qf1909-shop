@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e258b35-b288-45b4-8360-0c2ee79ba52c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/resources/application.yml" afterDir="false" />
     </list>
     <list id="e6a32e30-e97e-4419-93e7-842d190e5eab" name="first construction" comment="first construction" />
     <ignored path="$PROJECT_DIR$/qf1909-shop-common/target/" />
@@ -39,6 +14,8 @@
     <ignored path="$PROJECT_DIR$/qf1909-shop-web/shop-index/target/" />
     <ignored path="$PROJECT_DIR$/qf1909-shop-web/shop-login/target/" />
     <ignored path="$PROJECT_DIR$/qf1909-shop-web/shop-search/target/" />
+    <ignored path="$PROJECT_DIR$/qf1909-shop-web/shop-product/target/" />
+    <ignored path="$PROJECT_DIR$/qf1909-shop-web/shop-cart/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,70 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-server/eureka-server/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="1858" column="16" selection-start-line="1858" selection-start-column="16" selection-end-line="1858" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/resources/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/java/com/qf/ShopIndexApplication.java">
+        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-product/src/main/java/com/qf/ShopProductApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/java/com/qf/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qf1909-shop-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -160,6 +78,9 @@
         <option value="$PROJECT_DIR$/qf1909-shop-server/eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/java/com/qf/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/qf1909-shop-web/shop-index/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/java/com/qf/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/java/com/qf/controller/LoginController.java" />
       </list>
     </option>
   </component>
@@ -184,7 +105,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
+    <option name="x" value="42" />
     <option name="y" value="40" />
     <option name="width" value="1713" />
     <option name="height" value="985" />
@@ -202,11 +123,6 @@
               <item name="qf1909-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="qf1909-shop" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="qf1909-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qf1909-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="qf1909-shop-web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -215,22 +131,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/qf1909-shop-web/shop-product/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../代码/qf-shop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-product\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-product\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-search\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-search\src\main\resources\templates" />
       <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-login\src\main\resources\static" />
-      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-login\src\main\resources\templates" />
-      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-index\src\main\resources\static" />
-      <recent name="C:\Users\Administrator\Desktop\qf1909\qf1909-shop\qf1909-shop-web\shop-index\src\main\resources\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,7 +218,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583739568697</updated>
       <workItem from="1583739574928" duration="3928000" />
-      <workItem from="1583746297979" duration="3644000" />
+      <workItem from="1583746297979" duration="4872000" />
     </task>
     <task id="LOCAL-00001" summary="first construction">
       <created>1583744393643</created>
@@ -338,15 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583745398135</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first construction">
+      <created>1583752418174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583752418175</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7572000" />
+    <option name="totallyTimeSpent" value="8800000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="32" width="1370" height="788" extended-state="0" />
-    <editor active="true" />
+    <frame x="34" y="32" width="1370" height="788" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2995427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -361,7 +284,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.23932926" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -372,7 +295,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32952547" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32952547" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3292683" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
@@ -522,6 +445,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-search/src/main/resources/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-product/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/java/com/qf/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-login/src/main/java/com/qf/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qf1909-shop-web/shop-product/src/main/java/com/qf/ShopProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
