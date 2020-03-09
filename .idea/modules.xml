@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-server/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/qf1909-shop-server/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qf1909-shop.iml" filepath="$PROJECT_DIR$/.idea/qf1909-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-common/qf1909-shop-common.iml" filepath="$PROJECT_DIR$/qf1909-shop-common/qf1909-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-server/qf1909-shop-server.iml" filepath="$PROJECT_DIR$/qf1909-shop-server/qf1909-shop-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-service/qf1909-shop-service.iml" filepath="$PROJECT_DIR$/qf1909-shop-service/qf1909-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/qf1909-shop-web.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/qf1909-shop-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qf1909-shop-server" />
+        <module name="eureka-server" />
+        <module name="qf1909-shop-common" />
+        <module name="qf1909-shop-web" />
+        <module name="qf1909-shop-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="qf1909-shop-common" target="1.5" />
+      <module name="qf1909-shop-server" target="1.5" />
+      <module name="qf1909-shop-service" target="1.5" />
+      <module name="qf1909-shop-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-server" options="-parameters" />
+    </option>
+  </component>
+</project>
