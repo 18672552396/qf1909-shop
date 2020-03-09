@@ -8,6 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/qf1909-shop-server/qf1909-shop-server.iml" filepath="$PROJECT_DIR$/qf1909-shop-server/qf1909-shop-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/qf1909-shop-service/qf1909-shop-service.iml" filepath="$PROJECT_DIR$/qf1909-shop-service/qf1909-shop-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/qf1909-shop-web.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/qf1909-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/shop-cart/shop-cart.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/shop-cart/shop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/shop-index/shop-index.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/shop-index/shop-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/shop-login/shop-login.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/shop-login/shop-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/shop-product/shop-product.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/shop-product/shop-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf1909-shop-web/shop-search/shop-search.iml" filepath="$PROJECT_DIR$/qf1909-shop-web/shop-search/shop-search.iml" />
     </modules>
   </component>
 </project>
